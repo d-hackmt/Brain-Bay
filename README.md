@@ -11,3 +11,9 @@ Arduino sketch and BrainBay experiment files for BioAmp hardware,
 7. Hide design and press play to start visulizing you signals.
 
 Upside Down Labs may release custom BrainBay P2 & P3 arduino sketches in the near future keep this repository on watch if you are intersted. For the current software included in this repository, all right are reserved by the respective software developers and companies. This repository is only for educational purposes no copyright infringement is indened.
+
+
+
+
+https://github.com/d-hackmt/Brain-Bay/assets/113240252/7c059266-956f-4e04-8a7c-62421b473042
+
